@@ -1,1 +1,1 @@
-Step by step instruction for creating a Machine learning model for salary prediction w.r.t to experience
+Step by step instruction for creating a Machine learning model for salary prediction w.r.t experience
